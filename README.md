@@ -4,8 +4,13 @@ A simple Employee Profile Management application that uses NextJS and Tailwind C
 
 # How to Set Up
 
-since "node_modules" is could not be imported into the github repo, it must be downloaded:
+since "node_modules" could not be imported into the github repo, it must be downloaded:
 - npm install
+
+to start the backend server:
+- start a new terminal
+- run: npm install express 
+- run: node backend.js
 
 how to run application
 - npm run dev
@@ -18,6 +23,7 @@ how to run tests
 - Next JS
 - Tailwind CSS
 - Axios
+- Express JS
 
-  Ang & Almadin 2023
+Ang & Almadin 2023
   
