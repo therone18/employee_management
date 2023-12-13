@@ -1,6 +1,6 @@
 # Employee Profile Management
 
-A simple Employee Profile Management application that uses NextJS and Tailwind CSS that shows employees saved in an SQLite database that manages migrations using Prisma ORM and API calls using Axios
+A simple Employee Profile Management application that uses NextJS and Tailwind CSS that shows employees saved in an SQLite database that manages migrations using Prisma ORM and API calls using Axios. Developed in fulfilment of the requirements for Ateneo de Davao University's IT 3145 Elective Full Stack Development class.
 
 # How to Set Up
 
@@ -14,8 +14,10 @@ how to run tests
 
 - npm test
 
-#Libraries Used
+# Libraries Used
 - Next JS
 - Tailwind CSS
 - Axios
+
+  Ang & Almadin 2023
   
